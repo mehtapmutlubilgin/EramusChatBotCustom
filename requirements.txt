@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+scipy
+google-genai
+sentence-transformers
+python-dotenv
