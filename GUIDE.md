@@ -1,4 +1,4 @@
-# 🚀 Erasmus RAG Chatbot Kullanım Kılavuzu
+# 🎓 Erasmus RAG Chatbot Kullanım Kılavuzu
 
 Bu kılavuz, **Custom RAG** mimarisiyle geliştirilen Erasmus Chatbot projesinin kodunun çalıştırılmasına ve web arayüzünün test edilmesine dair adımları içerir.
 
@@ -73,3 +73,13 @@ Aşağıdaki soruları sorarak RAG sisteminin doğruluğunu test edebilirsiniz:
 **Projenizin Web Linki:**
 
 https://eramuschatbotcustom-mkyvbpfiuwised5jyzd5tj.streamlit.app/
+
+**Örnek Kullanımlar:**
+
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/87d3ff20-c714-435d-97e7-8b1652b4d920" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/9360e9f0-2779-4307-bdc3-3854c185a8e1" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/4fc04847-5952-4bb7-8f49-229c2af6ae86" />
+
+
+
+
