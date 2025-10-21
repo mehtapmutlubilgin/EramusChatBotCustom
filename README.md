@@ -55,5 +55,5 @@ https://eramuschatbotcustom-mkyvbpfiuwised5jyzd5tj.streamlit.app/
 
 * Email:mehtapmutlu.bilgin06@gmail.com
 * GitHub:https://github.com/mehtapmutlubilgin
-* Email:https://www.linkedin.com/in/mehtap-mutlu-bilgin-925b921b1/
+* Linkedin:https://www.linkedin.com/in/mehtap-mutlu-bilgin-925b921b1/
 
