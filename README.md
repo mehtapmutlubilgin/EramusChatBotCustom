@@ -20,8 +20,8 @@ Bu projede, LangChain veya Haystack gibi RAG framework'leri yerine, yüksek stab
 | :--- | :--- | :--- |
 | **Embedding (Vektörleme)** | **Sentence-Transformers** (`paraphrase-multilingual-mpnet-base-v2`) | Veri setindeki cevap metinlerini sayısal vektörlere dönüştürme ve anlamı temsil eden vektörleri oluşturma. |
 | **Vektör Arama (Retrieval)** | **NumPy / SciPy** (Kosinüs Benzerliği) | Kullanıcı sorgusu vektörünün en alakalı bilgi parçalarını (Context) bulma. *Küçük veri seti nedeniyle in-memory (bellek içi) depolama kullanılmıştır.* |
-| **Generation (Üretme)** | [cite_start]**Google Gemini 2.5 Pro** [cite: 42] | Geri çekilen Context'i kullanarak nihai, doğru ve bağlama uygun cevabı üretme. |
-| **Web Arayüzü** | **Streamlit** | [cite_start]Geliştirilen chatbot çözümünü bir web uygulaması olarak sunma[cite: 2]. |
+| **Generation (Üretme)** | **Google Gemini 2.5 Pro**  | Geri çekilen Context'i kullanarak nihai, doğru ve bağlama uygun cevabı üretme. |
+| **Web Arayüzü** | **Streamlit** | Geliştirilen chatbot çözümünü bir web uygulaması olarak sunma. |
 
 ### Teknik Detaylar
 
