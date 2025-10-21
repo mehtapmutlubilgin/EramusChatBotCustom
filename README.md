@@ -50,3 +50,10 @@ Projemizin çalışan canlı versiyonunu buradan test edebilir ve projenin kabil
 **Canlı Uygulama Linki (Deploy Link):**
 
 https://eramuschatbotcustom-mkyvbpfiuwised5jyzd5tj.streamlit.app/
+
+### Contact
+
+* Email:mehtapmutlu.bilgin06@gmail.com
+* GitHub:https://github.com/mehtapmutlubilgin
+* Email:https://www.linkedin.com/in/mehtap-mutlu-bilgin-925b921b1/
+
